@@ -59,7 +59,7 @@ nst.addEventListener("click", function(){
     typeEffect("hmmmm batao na", "pressnext", 50);
     press++;
   } else if (press === 1) {
-    typeEffect("koi aapse pyaar kare ya na kare hum karte", "pressnext", 50);
+    typeEffect("soja", "pressnext", 50);
     document.getElementById('img').src = 'cute.gif';
     press++;
   } else if (press === 2) {
@@ -106,20 +106,20 @@ no.addEventListener("click", function() {
   ly.style.display = "block";
   let text = "";
   if (i == 0){
-    text = "I think you pressed wrong button... try again";
+    text = "gdhjgdhdsgdjehedfd";
     document.getElementById('img').src = 'cats-miskey-the-peacemaker.gif';
   } else if (i == 1){
-    text = "wait... i think you again pressed wrong button... try again";
+    text = "hjsghdgdgdugdf";
   } else if (i == 2){
-    text = "Did you just press NO again? are you sure?";
+    text = "hdkhgdsjfhdjhfdhdkchdkcnjd";
   } else if (i == 3){
-    text = "fine i just sit here and cry now";
+    text = "dhcdsjkhcsduhdeiuhcdcds";
     document.getElementById('img').src = 'peachcat-cat.gif';
   } else if (i == 4){
-    text = "Last chance.. think again";
+    text = "hgefjdkfgdsjkbcdcdscd";
    
   } else if (i == 5){ 
-    text = "Now press if  you can!";
+    text = "sgdhdsjhdjghdgdscxdcd";
     document.getElementById('img').src = 'airallia-cat-chan.gif';
     no.addEventListener("click", swapButtons);
     no.addEventListener("mouseenter", swapButtons,)
